@@ -1,4 +1,4 @@
-<h3 align="center">
+<h2 align="center">
     Hi <img src="https://c.tenor.com/D5L3scQHFb4AAAAi/bt21-hi.gif" width="32px">, I'm Liron Abutbul<br>
     <a href="https://github.com/ladunjexa">
         <img src="https://readme-typing-svg.herokuapp.com/?lines=B.Sc.%20Computer-Science%20student%20🔬;Full-Stack%20Developer;Software%20Developer;Experienced%20stock%20trader%20💹;Target%20Focused%20🎯&font=Fira&center=true&width=380&height=38&color=0056D2&vCenter=true&size=19&pause=1000" alt="typing-info">
@@ -6,8 +6,7 @@
     <a href="https://github.com/ladunjexa">
         <img src="https://raw.githubusercontent.com/ladunjexa/ladunjexa/output/github-contribution-grid-snake.svg" alt="snake" height="70%" width="70%"/>
     </a>
-</h3>
-<h2></h2>
+</h2>
 <div align="right">
     <a href="https://twitter.com/lironabutbul6" target="blank">
         <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="liron.abutbul" height="20" width="26" />
