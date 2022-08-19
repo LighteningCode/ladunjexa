@@ -8,7 +8,7 @@
     </a>
 </h3>
 <h2></h2>
-<p align="right">
+<div align="right">
     <a href="https://twitter.com/lironabutbul6" target="blank">
         <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="liron.abutbul" height="20" width="26" />
     </a>
@@ -22,7 +22,7 @@
         <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="liron.abutbul" height="20" width="26" />
     </a>
     <img alt="visitprofile" src="https://visitcount.itsvg.in/api?id=ladunjexa&icon=0&color=0"/>
-</p>
+</div>
 
 ### <img src="https://raw.githubusercontent.com/mayankchaudhary26/Cool-Readme-ideas/master/data/octocat/daftpunktocat-thomas.gif" height="30px" width="30px" /> ***About Me***
 
@@ -42,7 +42,7 @@
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ladunjexa&theme=tokyonight">
 </details>
 
-<img alt="techstack" src="https://github.com/ladunjexa/ladunjexa/blob/7f7da5fd994bcfe9771e059688a117f389264727/assets/techstack.svg" height="200" width="200" align="right"/>
+<img alt="techstack" src="https://github.com/ladunjexa/ladunjexa/blob/main/assets/techstack.svg" height="200" width="200" align="right"/>
 
 ### <img src="https://online.fliphtml5.com/xndxj/hbpk/files/SlidePage/220104083819634.gif" height="30px" width="30px"/> ***Tech Stack***
 
