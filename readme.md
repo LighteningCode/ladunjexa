@@ -1,7 +1,7 @@
 <h2 align="center">
     Hi <img src="https://c.tenor.com/D5L3scQHFb4AAAAi/bt21-hi.gif" width="32px">, I'm Liron Abutbul<br>
     <a href="https://github.com/ladunjexa">
-        <img src="https://readme-typing-svg.herokuapp.com/?lines=B.Sc.%20Computer-Science%20student%20🔬;Full-Stack%20Developer;Software%20Developer;Experienced%20stock%20trader%20💹;Target%20Focused%20🎯&font=Fira&center=true&width=380&height=38&color=0056D2&vCenter=true&size=18&pause=1000" alt="typing-info">
+        <img src="https://readme-typing-svg.herokuapp.com/?lines=B.Sc.%20Student%20🔬;Full-Stack%20Developer;Software&20Developer;Experienced%20Stocktrader%20💹;%20🎯&font=Fira&center=true&width=380&height=38&color=0056D2&vCenter=true&size=18&pause=1000" alt="typing-info">
     </a>
     <a href="https://github.com/ladunjexa">
         <img src="https://raw.githubusercontent.com/ladunjexa/ladunjexa/output/github-contribution-grid-snake.svg" alt="snake" height="70%" width="70%"/>
@@ -28,7 +28,7 @@
 - <img alt="GIF" src="https://github.com/ladunjexa/ladunjexa/blob/main/assets/Developer.gif" width="25" /> &nbsp; I'm a self-taught **Software Developer**, familiar with coding since I was tween. <br>
 - <img src="https://github.com/ladunjexa/ladunjexa/blob/main/assets/message.gif?raw=true" width="25" />&nbsp;&nbsp; Studying for a **B.Sc. degree** in **Software Engineering** & **Computer-Science**. <br>
 - <img src="https://github.com/ladunjexa/ladunjexa/blob/main/assets/hyperkitty.gif?raw=true" width="20" />&nbsp;&nbsp;&nbsp; I'm interested in **Full-Stack Dev**, **Artificial Intelligence**, and **Algorithmic Trading**. <br>
-- &nbsp;&nbsp;<img src="https://github.com/ladunjexa/ladunjexa/blob/main/assets/lightning.gif?raw=true" width="12" />&nbsp;&nbsp;&nbsp;&nbsp;I'm currently specialise in **Full-Stack Development**. <br>
+- &nbsp;&nbsp;<img src="https://github.com/ladunjexa/ladunjexa/blob/main/assets/lightning.gif?raw=true" width="12" />&nbsp;&nbsp;&nbsp;&nbsp;I'm currently learning **Full-Stack Development**. <br>
 - <img src="https://github.com/ladunjexa/ladunjexa/blob/main/assets/letterbox.gif?raw=true" width="25" /> &nbsp; You can reach me out at dunjexala@outlook.com! <br>
 
 <a href="https://github.com/ladunjexa">
