@@ -29,7 +29,7 @@
 - <img src="https://github.com/ladunjexa/ladunjexa/blob/main/assets/message.gif?raw=true" width="25" />&nbsp;&nbsp; Studying for a **B.Sc. degree** in **Software Engineering** & **Computer-Science**. <br>
 - <img src="https://github.com/ladunjexa/ladunjexa/blob/main/assets/hyperkitty.gif?raw=true" width="20" />&nbsp;&nbsp;&nbsp; I'm interested in **Full-Stack Dev**, **Artificial Intelligence**, and **Algorithmic Trading**. <br>
 - &nbsp;&nbsp;<img src="https://github.com/ladunjexa/ladunjexa/blob/main/assets/lightning.gif?raw=true" width="12" />&nbsp;&nbsp;&nbsp;&nbsp;I'm currently learning **Full-Stack Development**. <br>
-- <img src="https://github.com/ladunjexa/ladunjexa/blob/main/assets/letterbox.gif?raw=true" width="25" /> &nbsp; You can reach me out at dunjexala@outlook.com! <br>
+- <img src="https://github.com/ladunjexa/ladunjexa/blob/main/assets/letterbox.gif?raw=true" width="25" /> &nbsp; You can reach me out at lironabutbul1998@outlook.co.il! <br>
 
 <a href="https://github.com/ladunjexa">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ladunjexa&theme=tokyonight" width="32.5%">
