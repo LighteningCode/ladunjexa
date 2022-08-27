@@ -1,7 +1,7 @@
 <h2 align="center">
     Hi <img src="https://c.tenor.com/D5L3scQHFb4AAAAi/bt21-hi.gif" width="32px">, I'm Liron Abutbul<br>
     <a href="https://github.com/ladunjexa">
-        <img src="https://readme-typing-svg.herokuapp.com/?lines=B.Sc.%20Student%20🔬;Full-Stack%20Developer;Software&20Developer;Experienced%20Stocktrader%20💹;%20🎯&font=Fira&center=true&width=380&height=38&color=0056D2&vCenter=true&size=18&pause=1000" alt="typing-info">
+        <img src="https://readme-typing-svg.herokuapp.com/?lines=B.Sc.%20Student%20🔬;Full-Stack%20Developer;Software&20Developer;Experienced%20Stocktrader%20💹%20🎯&font=Fira&center=true&width=380&height=38&color=0056D2&vCenter=true&size=18&pause=1000" alt="typing-info">
     </a>
     <a href="https://github.com/ladunjexa">
         <img src="https://raw.githubusercontent.com/ladunjexa/ladunjexa/output/github-contribution-grid-snake.svg" alt="snake" height="70%" width="70%"/>
