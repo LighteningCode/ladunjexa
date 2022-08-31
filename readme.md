@@ -34,7 +34,7 @@
 <a href="https://github.com/ladunjexa">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ladunjexa&theme=tokyonight" width="32.5%">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ladunjexa&theme=tokyonight" width="32.5%">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ladunjexa&layout=compact&langs_count=10&theme=tokyonight&hide_border=true&hide=procfile,html,css" width="31%">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ladunjexa&layout=compact&langs_count=10&theme=tokyonight&hide_border=true&hide=procfile,html,css,pawn,cs" width="31%">
 </a>
 <details align="center">
     <summary>GitHub Graph</summary>
