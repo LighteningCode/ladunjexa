@@ -188,26 +188,179 @@
   </a>
 </p>
 <h2></h2>
+
 <details>
 <summary>
 
 ### <img src="https://raw.githubusercontent.com/mayankchaudhary26/Cool-Readme-ideas/master/data/octocat/daftpunktocat-guy.gif" height="30px" width="30px"/> **_My Repositories_**
 
 </summary>
+
+<details open="true">
+<summary>
+
+#### **_Mobile Applications_**
+
+</summary>
 <p align="left">
-  <a href="https://github.com/ladunjexa/Noteboard-App"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ladunjexa&repo=Noteboard-App&theme=dracula&bg_color=7900FF&title_color=CFFFDC&icon_color=93FFD8&hide_border=true&show_icons=true" alt="github-readme-streak-stats"></a>
-  <a href="https://github.com/ladunjexa/Magazine-RESTful-API"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ladunjexa&repo=Magazine-RESTful-API&theme=dracula&bg_color=7900FF&title_color=CFFFDC&icon_color=93FFD8&hide_border=true&show_icons=true" alt="readme-typing-svg"></a>
-  <a href="https://github.com/ladunjexa/Authentication-N-Security"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=ladunjexa&repo=Authentication-N-Security&theme=dracula&bg_color=7900FF&title_color=CFFFDC&icon_color=93FFD8&hide_border=true&show_icons=true" alt="custom-icon-badges"></a>
-  <a href="https://github.com/ladunjexa/50-Mini-Web-Projects"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ladunjexa&repo=50-Mini-Web-Projects&theme=dracula&bg_color=7900FF&title_color=CFFFDC&icon_color=93FFD8&hide_border=true&show_icons=true" alt="unicode-formatter"></a>
-    <a href="https://github.com/ladunjexa/LoginAutomation-BGU-OUOI"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ladunjexa&repo=LoginAutomation-BGU-OUOI&theme=dracula&bg_color=7900FF&title_color=CFFFDC&icon_color=93FFD8&hide_border=true&show_icons=true" alt="unicode-formatter"></a>
-  <a href="https://github.com/ladunjexa/Todolist-Web-w.MongoDB"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ladunjexa&repo=Todolist-Web-w.MongoDB&theme=dracula&bg_color=7900FF&title_color=CFFFDC&icon_color=93FFD8&hide_border=true&show_icons=true" alt="table2ascii"></a>
-  <a href="https://github.com/ladunjexa/sneakers-ecommerce-ui"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ladunjexa&repo=sneakers-ecommerce-ui&theme=dracula&bg_color=7900FF&title_color=CFFFDC&icon_color=93FFD8&hide_border=true&show_icons=true" alt="github-readme-streak-stats"></a>
-  <a href="https://github.com/ladunjexa/googlebooks-downloader"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ladunjexa&repo=googlebooks-downloader&theme=dracula&bg_color=7900FF&title_color=CFFFDC&icon_color=93FFD8&hide_border=true&show_icons=true" alt="readme-typing-svg"></a>
-  <a href="https://github.com/ladunjexa/ATM-program"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=ladunjexa&repo=ATM-program&theme=dracula&bg_color=7900FF&title_color=CFFFDC&icon_color=93FFD8&hide_border=true&show_icons=true" alt="custom-icon-badges"></a>
-  <a href="https://github.com/ladunjexa/Blog-website-w.mongodb"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ladunjexa&repo=Blog-Website-w.MongoDB&theme=dracula&bg_color=7900FF&title_color=CFFFDC&icon_color=93FFD8&hide_border=true&show_icons=true" alt="Unedit-for-Reddit"></a>
-  <a href="https://github.com/ladunjexa/obj-dist-detector"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ladunjexa&repo=obj-dist-detector&theme=dracula&bg_color=7900FF&title_color=CFFFDC&icon_color=93FFD8&hide_border=true&show_icons=true" alt="Unedit-for-Reddit"></a>
-  <a href="https://github.com/ladunjexa/bunch-of-cs.console-apps"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ladunjexa&repo=Bunch-of-CS.Console-Apps&theme=dracula&bg_color=7900FF&title_color=CFFFDC&icon_color=93FFD8&hide_border=true&show_icons=true" alt="table2ascii"></a>
+<a href="https://github.com/ladunjexa/BMI-Calculator-App"
+><img
+width="278"
+src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ladunjexa&repo=BMI-Calculator-App&theme=dracula&bg_color=7900FF&title_color=CFFFDC&icon_color=93FFD8&hide_border=true&show_icons=true"
+alt="github-readme-streak-stats"
+/></a>
+<a href="https://github.com/ladunjexa/Destini-App"
+><img
+width="278"
+src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=ladunjexa&repo=Destini-App&theme=dracula&bg_color=7900FF&title_color=CFFFDC&icon_color=93FFD8&hide_border=true&show_icons=true"
+alt="custom-icon-badges"
+/></a>
+<a href="https://github.com/ladunjexa/Quizzify-App"
+><img
+width="278"
+src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ladunjexa&repo=Quizzify-App&theme=dracula&bg_color=7900FF&title_color=CFFFDC&icon_color=93FFD8&hide_border=true&show_icons=true"
+alt="unicode-formatter"
+/></a>
+<a href="https://github.com/ladunjexa/Xylophone-App"
+><img
+width="278"
+src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ladunjexa&repo=Xylophone-App&theme=dracula&bg_color=7900FF&title_color=CFFFDC&icon_color=93FFD8&hide_border=true&show_icons=true"
+alt="table2ascii"
+/></a>
+<a href="https://github.com/ladunjexa/Dice-Roll-App"
+><img
+width="278"
+src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ladunjexa&repo=Dice-Roll-App&theme=dracula&bg_color=7900FF&title_color=CFFFDC&icon_color=93FFD8&hide_border=true&show_icons=true"
+alt="github-readme-streak-stats"
+/></a>
+<a href="https://github.com/ladunjexa/Biz-Card-UI"
+><img
+width="278"
+src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ladunjexa&repo=Biz-Card-UI&theme=dracula&bg_color=7900FF&title_color=CFFFDC&icon_color=93FFD8&hide_border=true&show_icons=true"
+alt="Unedit-for-Reddit"
+/></a>
 </p>
+</details>
+<details open="true">
+<summary>
+
+#### **_Code Snippets & Scripts_**
+
+</summary>
+<p align="left">
+<a href="https://github.com/ladunjexa/Magazine-RESTful-API"
+><img
+width="278"
+src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ladunjexa&repo=Magazine-RESTful-API&theme=dracula&bg_color=7900FF&title_color=CFFFDC&icon_color=93FFD8&hide_border=true&show_icons=true"
+alt="readme-typing-svg"
+/></a>
+<a href="https://github.com/ladunjexa/LoginAutomation-BGU-OUI"
+><img
+width="278"
+src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ladunjexa&repo=LoginAutomation-BGU-OUI&theme=dracula&bg_color=7900FF&title_color=CFFFDC&icon_color=93FFD8&hide_border=true&show_icons=true"
+alt="unicode-formatter"
+/></a>
+<a href="https://github.com/ladunjexa/googlebooks-downloader"
+><img
+width="278"
+src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ladunjexa&repo=googlebooks-downloader&theme=dracula&bg_color=7900FF&title_color=CFFFDC&icon_color=93FFD8&hide_border=true&show_icons=true"
+alt="readme-typing-svg"
+/></a>
+<a href="https://github.com/ladunjexa/ATM-program"
+><img
+width="278"
+src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=ladunjexa&repo=ATM-program&theme=dracula&bg_color=7900FF&title_color=CFFFDC&icon_color=93FFD8&hide_border=true&show_icons=true"
+alt="custom-icon-badges"
+/></a>
+<a href="https://github.com/ladunjexa/obj-dist-detector"
+><img
+width="278"
+src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ladunjexa&repo=obj-dist-detector&theme=dracula&bg_color=7900FF&title_color=CFFFDC&icon_color=93FFD8&hide_border=true&show_icons=true"
+alt="Unedit-for-Reddit"
+/></a>
+</p>
+</details>
+<details open="true">
+<summary>
+
+#### **_Web Applications_**
+
+</summary>
+<p align="left">
+<a href="https://github.com/ladunjexa/Apple-eCommerce-Web"
+><img
+width="278"
+src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ladunjexa&repo=Apple-eCommerce-Web&theme=dracula&bg_color=7900FF&title_color=CFFFDC&icon_color=93FFD8&hide_border=true&show_icons=true"
+alt="github-readme-streak-stats"
+/></a>
+<a href="https://github.com/ladunjexa/Developer-Portfolio-Web"
+><img
+width="278"
+src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ladunjexa&repo=Developer-Portfolio-Web&theme=dracula&bg_color=7900FF&title_color=CFFFDC&icon_color=93FFD8&hide_border=true&show_icons=true"
+alt="github-readme-streak-stats"
+/></a>
+<a href="https://github.com/ladunjexa/Architect-Web"
+><img
+width="278"
+src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ladunjexa&repo=Architect-Web&theme=dracula&bg_color=7900FF&title_color=CFFFDC&icon_color=93FFD8&hide_border=true&show_icons=true"
+alt="github-readme-streak-stats"
+/></a>
+<a href="https://github.com/ladunjexa/Travelio-Web"
+><img
+width="278"
+src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ladunjexa&repo=Travelio-Web&theme=dracula&bg_color=7900FF&title_color=CFFFDC&icon_color=93FFD8&hide_border=true&show_icons=true"
+alt="github-readme-streak-stats"
+/></a>
+<a href="https://github.com/ladunjexa/Cyberplex-Web"
+><img
+width="278"
+src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ladunjexa&repo=Cyberplex-Web&theme=dracula&bg_color=7900FF&title_color=CFFFDC&icon_color=93FFD8&hide_border=true&show_icons=true"
+alt="github-readme-streak-stats"
+/></a>
+<a href="https://github.com/ladunjexa/CreativeDesign-Web"
+><img
+width="278"
+src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ladunjexa&repo=CreativeDesign-Web&theme=dracula&bg_color=7900FF&title_color=CFFFDC&icon_color=93FFD8&hide_border=true&show_icons=true"
+alt="github-readme-streak-stats"
+/></a>
+<a href="https://github.com/ladunjexa/Noteboard-Web"
+><img
+width="278"
+src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ladunjexa&repo=Noteboard-Web&theme=dracula&bg_color=7900FF&title_color=CFFFDC&icon_color=93FFD8&hide_border=true&show_icons=true"
+alt="github-readme-streak-stats"
+/></a>
+<a href="https://github.com/ladunjexa/Authentication-N-Security"
+><img
+width="278"
+src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=ladunjexa&repo=Authentication-N-Security&theme=dracula&bg_color=7900FF&title_color=CFFFDC&icon_color=93FFD8&hide_border=true&show_icons=true"
+alt="custom-icon-badges"
+/></a>
+<a href="https://github.com/ladunjexa/50-Mini-Web-Projects"
+><img
+width="278"
+src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ladunjexa&repo=50-Mini-Web-Projects&theme=dracula&bg_color=7900FF&title_color=CFFFDC&icon_color=93FFD8&hide_border=true&show_icons=true"
+alt="unicode-formatter"
+/></a>
+<a href="https://github.com/ladunjexa/Todolist-Web-w.MongoDB"
+><img
+width="278"
+src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ladunjexa&repo=Todolist-Web-w.MongoDB&theme=dracula&bg_color=7900FF&title_color=CFFFDC&icon_color=93FFD8&hide_border=true&show_icons=true"
+alt="table2ascii"
+/></a>
+<a href="https://github.com/ladunjexa/Sneakers-eCommerce-UI"
+><img
+width="278"
+src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ladunjexa&repo=Sneakers-eCommerce-UI&theme=dracula&bg_color=7900FF&title_color=CFFFDC&icon_color=93FFD8&hide_border=true&show_icons=true"
+alt="github-readme-streak-stats"
+/></a>
+<a href="https://github.com/ladunjexa/Blog-website-w.mongodb"
+><img
+width="278"
+src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ladunjexa&repo=Blog-Website-w.MongoDB&theme=dracula&bg_color=7900FF&title_color=CFFFDC&icon_color=93FFD8&hide_border=true&show_icons=true"
+alt="Unedit-for-Reddit"
+/></a>
+</p>
+</details>
 
 <p align="left">
   <a href="https://github.com/ladunjexa?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-All%20Repos-2962FF?style=for-the-badge&logoColor=white&logo=repo"/></a>
