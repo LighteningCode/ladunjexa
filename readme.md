@@ -20,8 +20,7 @@
     <a href="https://instagram.com/lironabutbul" target="blank">
         <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="liron.abutbul" height="20" width="26" />
     </a>
-    <img alt="visitprofile" src="https://komarev.com/ghpvc/?username=ladunjexa&color=3d1acf&style=plastic" />
-</div>
+    </div>
 <!---  <img alt="visitprofile" src="https://visitcount.itsvg.in/api?id=ladunjexa&icon=0&color=0"/> --->
 
 ### <img src="https://raw.githubusercontent.com/mayankchaudhary26/Cool-Readme-ideas/master/data/octocat/daftpunktocat-thomas.gif" height="30px" width="30px" /> **_About Me_**
